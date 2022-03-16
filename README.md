@@ -1,1 +1,1 @@
-# there is personal exercise in alg.
+# there is personal exercise in some subjects.
