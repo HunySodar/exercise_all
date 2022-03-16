@@ -1,1 +1,1 @@
-# exercise in many fields
+# exercise in alg
