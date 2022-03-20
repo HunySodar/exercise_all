@@ -10,8 +10,7 @@ module pc(
 	always@(posedge clk or posedge reset)
 	//always@(posedge clk)
 	begin
-		if(reset) 
-			_pc <= 32'h00003000;
+		if(reset) _pc <= 32'h00003000;
 		else begin
 			_pc  <= newpc;
 		end
