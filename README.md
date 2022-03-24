@@ -1,1 +1,1 @@
-# there is personal exercise in some subjects.
+# there are some personal exercises in some subjects.
